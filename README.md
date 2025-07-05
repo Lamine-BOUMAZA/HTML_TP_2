@@ -1,2 +1,4 @@
-# HTML_TP_2
-Entrainement HTML / TP 2
+Entrainement HTML :
+
+- Mise en place d'un tableau.
+- Formation : https://fromscratch.podia.com
